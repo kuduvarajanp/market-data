@@ -1,0 +1,8 @@
+source "http://rubygems.org"
+
+gem 'capybara'
+gem 'cucumber'
+gem "selenium-webdriver"
+gem "selenium-cucumber"
+gem "poltergeist"
+gem "site_prism"
